@@ -11,6 +11,7 @@ on:
   schedule: # UTC+9 기준
     - cron: "50 4 * * 1"
     - cron: "50 10 * * 1,3,5"
+    - cron: "46 5 * * 1"
 
 jobs:
   message:
