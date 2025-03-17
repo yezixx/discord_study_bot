@@ -12,6 +12,8 @@
 
 **실제 메시지**
 
+* 설정 시간에서 5분~7분 정도 딜레이 있음
+
 ![image](https://github.com/user-attachments/assets/bf764938-e827-43ce-9190-d0e0bfc83d8a)
 
 
