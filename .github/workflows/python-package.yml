@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule: # UTC+9 기준
-    # - cron: "50 23 * * 0,1,2,3,4"
+     - cron: "50 23 * * 0,1,2,3,4"
 
 jobs:
   message:
